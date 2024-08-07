@@ -1,7 +1,8 @@
-## Blog ✍️
-https://rei315.github.io
 
-Latest posts:
+Latest present
+- iOSDC2024 [プロジェクトで遭遇した奇妙で面白いバグたち](https://fortee.jp/iosdc-japan-2024/proposal/2095e853-8df7-4b25-aea3-61d6595a5124)
+
+Latest posts
 - **[22卒の私が1年間行ったRetty iOSプロジェクトの改善](https://engineer.retty.me/entry/2023/11/22/100000)** (2023/11)
 - **[iOSのCI/CDをXcodeCloud+GitHubActionsに移行し費用削減になったうえに運用効率が向上しました！](https://engineer.retty.me/entry/2022/12/23/132536)** (2022/12)
 - **[22新卒としてアプリチームにJoinして半年が経ちました](https://engineer.retty.me/entry/2022/11/16/100000)** (2022/11)
