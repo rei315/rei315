@@ -1,5 +1,6 @@
 
 Latest present
+- KWDC25 [No Shaders? No Worries Let’s Talk about Metal Render Pipeline](https://kwdc.dev/ko/2025/speaker/4/)
 - iOSDC2024 [プロジェクトで遭遇した奇妙で面白いバグたち](https://fortee.jp/iosdc-japan-2024/proposal/2095e853-8df7-4b25-aea3-61d6595a5124)
 
 Latest posts
